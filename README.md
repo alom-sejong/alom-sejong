@@ -54,15 +54,15 @@
 스터디는 신청자에 한해 팀을 배정해드리고, 인터넷 강의 교육 지원과 스터디 참여율에 따라 커피값을 지원해드립니다.
 
 ## 지금까지 진행했던 프로젝트
-* GoodSmile
+* **GoodSmile**
 <br/><img src="https://github.com/yeseoLee/SejongALOM/blob/main/img/%EC%95%84%EB%A1%AC%2020%20-%202%20%EC%98%A4%EB%A6%AC%EC%97%94%ED%85%8C%EC%9D%B4%EC%85%98%20(1)_7.png" width="600px" title="GoodSmile" alt="GoodSmileProject"></img><br/>
-* Sayjong
+* **Sayjong**
 <br/><img src="https://github.com/yeseoLee/SejongALOM/blob/main/img/%EC%95%84%EB%A1%AC%2020%20-%202%20%EC%98%A4%EB%A6%AC%EC%97%94%ED%85%8C%EC%9D%B4%EC%85%98%20(1)_9.png" width="600px" title="Sayjong" alt="SayjongProject"></img><br/>
-* E6-0920
+* **E6-0920**
 <br/><img src="https://github.com/yeseoLee/SejongALOM/blob/main/img/%EC%95%84%EB%A1%AC%2020%20-%202%20%EC%98%A4%EB%A6%AC%EC%97%94%ED%85%8C%EC%9D%B4%EC%85%98%20(1)_13.png" width="600px" title="E60920" alt="E60920Project"></img><br/>
-* NMT
+* **NMT**
 <br/><img src="https://github.com/yeseoLee/SejongALOM/blob/main/img/%EC%95%84%EB%A1%AC%2020%20-%202%20%EC%98%A4%EB%A6%AC%EC%97%94%ED%85%8C%EC%9D%B4%EC%85%98%20(1)_15.png" width="600px" title="NMT" alt="NMTProject"></img><br/>
-* 같이먹자
+* **같이먹자**
 <br/><img src="https://github.com/yeseoLee/SejongALOM/blob/main/img/%EC%95%84%EB%A1%AC%2020%20-%202%20%EC%98%A4%EB%A6%AC%EC%97%94%ED%85%8C%EC%9D%B4%EC%85%98%20(1)_16.png" width="600px" title="EatTogether" alt="EatTogetherProject"></img><br/>
 
 ## 🌱자주 묻는 질문  
