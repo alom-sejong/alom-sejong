@@ -55,15 +55,15 @@
 
 ## 🌱지금까지 진행했던 프로젝트
 * **GoodSmile**
-<br/><img src="https://github.com/yeseoLee/SejongALOM/blob/main/img/%EC%95%84%EB%A1%AC%2020%20-%202%20%EC%98%A4%EB%A6%AC%EC%97%94%ED%85%8C%EC%9D%B4%EC%85%98%20(1)_7.png" width="600px" title="GoodSmile" alt="GoodSmileProject"></img><br/>
+<br/><img src="https://github.com/alom-sejong/alom-sejong/blob/main/img/%EC%95%84%EB%A1%AC_%EA%B5%BF%EC%8A%A4%EB%A7%88%EC%9D%BC.png" width="600px" title="GoodSmile" alt="GoodSmileProject"></img><br/>
 * **Sayjong**
-<br/><img src="https://github.com/yeseoLee/SejongALOM/blob/main/img/%EC%95%84%EB%A1%AC%2020%20-%202%20%EC%98%A4%EB%A6%AC%EC%97%94%ED%85%8C%EC%9D%B4%EC%85%98%20(1)_9.png" width="600px" title="Sayjong" alt="SayjongProject"></img><br/>
+<br/><img src="https://github.com/alom-sejong/alom-sejong/blob/main/img/%EC%95%84%EB%A1%AC_%EC%95%B1_%EC%84%B8%EC%9D%B4%EC%A2%85.png" width="600px" title="Sayjong" alt="SayjongProject"></img><br/>
 * **E6-0920**
-<br/><img src="https://github.com/yeseoLee/SejongALOM/blob/main/img/%EC%95%84%EB%A1%AC%2020%20-%202%20%EC%98%A4%EB%A6%AC%EC%97%94%ED%85%8C%EC%9D%B4%EC%85%98%20(1)_13.png" width="600px" title="E60920" alt="E60920Project"></img><br/>
+<br/><img src="https://github.com/alom-sejong/alom-sejong/blob/main/img/%EC%95%84%EB%A1%AC_%EC%95%B1_E6_0920.png" width="600px" title="E60920" alt="E60920Project"></img><br/>
 * **NMT**
-<br/><img src="https://github.com/yeseoLee/SejongALOM/blob/main/img/%EC%95%84%EB%A1%AC%2020%20-%202%20%EC%98%A4%EB%A6%AC%EC%97%94%ED%85%8C%EC%9D%B4%EC%85%98%20(1)_15.png" width="600px" title="NMT" alt="NMTProject"></img><br/>
+<br/><img src="https://github.com/alom-sejong/alom-sejong/blob/main/img/%EC%95%84%EB%A1%AC_%EC%95%B1_NMT.png" width="600px" title="NMT" alt="NMTProject"></img><br/>
 * **같이먹자**
-<br/><img src="https://github.com/yeseoLee/SejongALOM/blob/main/img/%EC%95%84%EB%A1%AC%2020%20-%202%20%EC%98%A4%EB%A6%AC%EC%97%94%ED%85%8C%EC%9D%B4%EC%85%98%20(1)_16.png" width="600px" title="EatTogether" alt="EatTogetherProject"></img><br/>
+<br/><img src="https://github.com/alom-sejong/alom-sejong/blob/main/img/%EC%95%84%EB%A1%AC_%EC%95%B1_%EA%B0%99%EC%9D%B4%EB%A8%B9%EC%9E%90.png" width="600px" title="EatTogether" alt="EatTogetherProject"></img><br/>
 
 ## 🌱자주 묻는 질문  
 #### 1. 동아리 내에서 대외활동을 나가기도 하나요?  
