@@ -1,8 +1,7 @@
 # 아롬(ALOM) 소개
 
-## 🌱아롬 지원하기
-🌟앱 개발 동아리 아롬에서 💚신입부원💚을 모집합니다!🌟  
-[아롬 11기 지원](https://docs.google.com/forms/d/e/1FAIpQLSfCAILLAh6w16sVKSB0M9vI9mtyGd-PS4pbnyaI17VzOSftuw/viewform?usp=pp_url)  
+## 🌱아롬 지원하기  
+[🌟아롬 11기 지원🌟](https://docs.google.com/forms/d/e/1FAIpQLSfCAILLAh6w16sVKSB0M9vI9mtyGd-PS4pbnyaI17VzOSftuw/viewform?usp=pp_url)  
 
 ## 🌱아롬이란?
 아롬(ALOM)은 Alpha와 Omega의 합성어로 모든 동아리원들이 앱 개발의 시작부터 끝까지 함께 하자는 취지에서 설립된 IT 앱 개발 동아리입니다.   
